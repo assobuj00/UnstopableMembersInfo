@@ -30,16 +30,6 @@
     },
 
     {
-        "name": "ফয়সাল",
-        "engName": "Faysal",
-        "mobile": "01909906810",
-        "bloodGroup": "O+",
-        "department": "Physics",
-        "fbId": "https://www.facebook.com/Foysalahamed6810/",
-        "profile": "https://i.postimg.cc/Y9DYZWdx/faysal.jpg"
-    },
-
-    {
         "name": "রিফাত",
         "engName": "Rifat",
         "mobile": "01944912830",
@@ -188,16 +178,8 @@
         "fbId": "https://www.facebook.com/md.nishan.khan.193106/",
         "profile": "https://i.postimg.cc/VsxW829Q/nishan.jpg"
     },
-
-    {
-        "name": "মোস্তফা",
-        "engName": "Mostofa",
-        "mobile": "01726364249",
-        "bloodGroup": "O+",
-        "department": "Botany",
-        "fbId": "https://www.facebook.com/md.mostufa.kamal.183835/",
-        "profile": "https://i.postimg.cc/Jz4fNysQ/mostufa.jpg"
-    }
+    
 ]
+
 
 
