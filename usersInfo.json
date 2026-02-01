@@ -60,16 +60,6 @@
     },
 
     {
-        "name": "সিরাজুল ইসলাম সিরাজ",
-        "engName": "Sirajul Islam Siraj",
-        "mobile": "01908048256",
-        "bloodGroup": "O+",
-        "department": "Botany",
-        "fbId": "https://www.facebook.com/md.sirajul.islam.810909/",
-        "profile": "https://i.postimg.cc/nr6R853T/siraj.jpg"
-    },
-
-    {
         "name": "আবু সুফিয়ান",
         "engName": "Abu Sufian",
         "mobile": "01610571047",
@@ -177,9 +167,20 @@
         "department": "Economics",
         "fbId": "https://www.facebook.com/md.nishan.khan.193106/",
         "profile": "https://i.postimg.cc/VsxW829Q/nishan.jpg"
+    },
+
+    {
+        "name": "সিরাজুল ইসলাম সিরাজ",
+        "engName": "Sirajul Islam Siraj",
+        "mobile": "01908048256",
+        "bloodGroup": "O+",
+        "department": "Botany",
+        "fbId": "https://www.facebook.com/md.sirajul.islam.810909/",
+        "profile": "https://i.postimg.cc/nr6R853T/siraj.jpg"
     }
     
 ]
+
 
 
 
